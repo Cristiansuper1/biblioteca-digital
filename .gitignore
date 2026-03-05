@@ -1,0 +1,46 @@
+# Arquivos de build do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Arquivos de IDE (IntelliJ IDEA)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+
+# Arquivos de propriedades com senhas
+application-local.properties
+application-prod.properties
+application.properties
+!application.properties
+
+# Arquivos gerados pelo script de análise
+CODEBASE_FULL.txt
+PROJECT_CONTEXT.md
+analyze_codebase.py
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
