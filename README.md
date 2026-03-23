@@ -35,6 +35,10 @@ Swagger UI: `http://localhost:8080/swagger-ui/index.html`
 
 Todos os endpoints com exemplos de request e response.
 
+<img width="2838" height="989" alt="image" src="https://github.com/user-attachments/assets/c059afae-f189-46ef-bc6a-660e62bd13fb" />
+
+<img width="2842" height="1133" alt="image" src="https://github.com/user-attachments/assets/80c2c47d-dfab-4483-b6aa-ed165253cf5d" />
+
 ---
 
 ## Endpoints
