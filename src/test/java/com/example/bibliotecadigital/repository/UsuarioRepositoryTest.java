@@ -31,7 +31,6 @@ public class UsuarioRepositoryTest {
 
     @Test
     void deveBuscarUsuarioPorEmail() {
-        // Arrange
         Usuario usuario = new Usuario();
         usuario.setNome("Maria Souza");
         usuario.setEmail("maria@teste.com");
