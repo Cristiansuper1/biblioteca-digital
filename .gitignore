@@ -32,6 +32,7 @@ application.properties
 CODEBASE_FULL.txt
 PROJECT_CONTEXT.md
 analyze_codebase.py
+comandos_uteis.txt
 
 # Compiled class files
 *.class
