@@ -122,7 +122,7 @@ Cobre repositórios JPA e controllers via MockMvc.
 
 ## Banco de dados
 
-H2 em memória. Os dados não são salvos em disco — reiniciar a aplicação limpa tudo.
+H2 em memória. Os dados não são persistentes, resetam em toda execução.
 
 Console: `http://localhost:8080/h2-console`  
 JDBC URL: `jdbc:h2:mem:testdb`
